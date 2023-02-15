@@ -1,4 +1,4 @@
-# @duckodas/word-blacklist
+# @duckodas/badwords
 
 A javascript filter for badwords
 
@@ -12,12 +12,12 @@ As of version 2, requires you either have an environment that understands ES2016
 
 ## Installation
 
-    npm install bad-words --save
+    npm i @duckodas/badwords --save
 
 ## Usage
 
 ```js
-var Filter = require("@duckodas/word-blacklist"),
+var Filter = require("@duckodas/badwords"),
   filter = new Filter();
 
 console.log(filter.clean("Don't be an ash0le")); //Don't be an ******
@@ -26,7 +26,7 @@ console.log(filter.clean("Don't be an ash0le")); //Don't be an ******
 ### Placeholder Overrides
 
 ```js
-var Filter = require("@duckodas/word-blacklist");
+var Filter = require("@duckodas/badwords");
 var customFilter = new Filter({ placeHolder: "x" });
 
 customFilter.clean("Don't be an ash0le"); //Don't be an xxxxxx
