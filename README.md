@@ -6,7 +6,7 @@ A javascript filter for badwords
 
 Supported Languages (ar, cs, da, de, en, eo, es, fa, fi, fil, fr, hi, hu, it, ja, kab, ko, nl, no, pl, pt)
 
-[![DiscordBanner](https://invidget.switchblade.xyz/the-blurple-saturn-1044098950455627867)](https://discord.gg/the-blurple-saturn-1044098950455627867)
+[![DiscordBanner](https://invidget.switchblade.xyz/TKz7BMwEap)](https://discord.gg/TKz7BMwEap)
 
 ## Requirements
 
